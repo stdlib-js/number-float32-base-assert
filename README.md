@@ -76,6 +76,13 @@ The namespace contains the following functions:
 
 <!-- <toc pattern="*"> -->
 
+<div class="namespace-toc">
+
+-   <span class="signature">[`isSameValueZerof( a, b )`][@stdlib/number/float32/base/assert/is-same-value-zero]</span><span class="delimiter">: </span><span class="description">test if two single-precision floating-point numbers are the same value.</span>
+-   <span class="signature">[`isSameValuef( a, b )`][@stdlib/number/float32/base/assert/is-same-value]</span><span class="delimiter">: </span><span class="description">test if two single-precision floating-point numbers are the same value.</span>
+
+</div>
+
 <!-- </toc> -->
 
 </section>
@@ -156,8 +163,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/number-float32-base-assert.svg
 [npm-url]: https://npmjs.org/package/@stdlib/number-float32-base-assert
 
-[test-image]: https://github.com/stdlib-js/number-float32-base-assert/actions/workflows/test.yml/badge.svg?branch=v0.1.0
-[test-url]: https://github.com/stdlib-js/number-float32-base-assert/actions/workflows/test.yml?query=branch:v0.1.0
+[test-image]: https://github.com/stdlib-js/number-float32-base-assert/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/number-float32-base-assert/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/number-float32-base-assert/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/number-float32-base-assert?branch=main
@@ -190,6 +197,10 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/number-float32-base-assert/main/LICENSE
 
 <!-- <toc-links> -->
+
+[@stdlib/number/float32/base/assert/is-same-value-zero]: https://github.com/stdlib-js/number-float32-base-assert-is-same-value-zero
+
+[@stdlib/number/float32/base/assert/is-same-value]: https://github.com/stdlib-js/number-float32-base-assert-is-same-value
 
 <!-- </toc-links> -->
 
