@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import assert from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float32-base-assert@deno/mod.js';
+import assert from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float32-base-assert@v0.2.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { isSameValueZerof, isSameValuef } from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float32-base-assert@deno/mod.js';
+import { isSameValueZerof, isSameValuef } from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float32-base-assert@v0.2.1-deno/mod.js';
 ```
 
 #### assert
@@ -95,7 +95,7 @@ The namespace contains the following functions:
 
 ```javascript
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@deno/mod.js';
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float32-base-assert@deno/mod.js';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float32-base-assert@v0.2.1-deno/mod.js';
 
 console.log( objectKeys( ns ) );
 ```
