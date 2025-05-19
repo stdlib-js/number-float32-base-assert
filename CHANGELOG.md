@@ -4,27 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
-
-<section class="packages">
-
-### Packages
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Athan Reines
-
-</section>
-
-<!-- /.contributors -->
+## Unreleased (2025-05-19)
 
 <section class="commits">
 
@@ -40,6 +20,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <!-- /.commits -->
 
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
 </section>
 
 <!-- /.release -->
@@ -47,26 +39,6 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
-
-<section class="packages">
-
-### Packages
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -81,6 +53,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
@@ -100,48 +84,15 @@ No changes reported for this release.
 
 ## 0.2.0 (2024-02-14)
 
-<section class="packages">
-
-### Packages
-
-<section class="package" id="number-float32-base-assert-v0.2.0">
-
-#### [@stdlib/number/float32/base/assert](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float32/base/assert)
-
-<details>
-
 <section class="features">
 
-##### Features
+### Features
 
 -   [`2693e3b`](https://github.com/stdlib-js/stdlib/commit/2693e3b3f0382542a51fc57d78e9ab59e2dc0681) - update namespace TypeScript declarations [(#1287)](https://github.com/stdlib-js/stdlib/pull/1287)
 
 </section>
 
 <!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 2 people contributed to this release. Thank you to the following contributors:
-
--   Athan Reines
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -158,6 +109,19 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <!-- /.commits -->
 
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
 </section>
 
 <!-- /.release -->
@@ -166,92 +130,18 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 ## 0.1.0 (2024-01-25)
 
-<section class="packages">
-
-### Packages
-
-<section class="package" id="number-float32-base-assert-v0.1.0">
-
-#### [@stdlib/number/float32/base/assert](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float32/base/assert)
-
-<details>
-
 <section class="features">
 
-##### Features
+### Features
 
 -   [`23df479`](https://github.com/stdlib-js/stdlib/commit/23df479470a45974b8d87559cc7c9e63e3c321c0) - add `isSameValueZerof` to namespace and fix export name
+-   [`5cd3de9`](https://github.com/stdlib-js/stdlib/commit/5cd3de9d141fefc57ccfe2e59cd96d2d0b75b0c4) - add `number/float32/base/assert/is-same-value-zero`
 -   [`ecee463`](https://github.com/stdlib-js/stdlib/commit/ecee463b893c3d850ac8653ce578ec2084b79a83) - add `number/float32/base/assert`
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-float32-base-assert-is-same-value-v0.1.0">
-
-#### [@stdlib/number/float32/base/assert/is-same-value](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float32/base/assert/is-same-value)
-
-<details>
-
-<section class="features">
-
-##### Features
-
 -   [`f21f6bf`](https://github.com/stdlib-js/stdlib/commit/f21f6bf27b244b94af0053364d95286aa37dfa52) - add `number/float32/base/assert/is-same-value`
 
 </section>
 
 <!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-float32-base-assert-is-same-value-zero-v0.1.0">
-
-#### [@stdlib/number/float32/base/assert/is-same-value-zero](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float32/base/assert/is-same-value-zero)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`5cd3de9`](https://github.com/stdlib-js/stdlib/commit/5cd3de9d141fefc57ccfe2e59cd96d2d0b75b0c4) - add `number/float32/base/assert/is-same-value-zero`
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Athan Reines
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -271,6 +161,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
