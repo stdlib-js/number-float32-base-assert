@@ -4,7 +4,18 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-19)
+## Unreleased (2025-08-11)
+
+<section class="features">
+
+### Features
+
+-   [`1f65da4`](https://github.com/stdlib-js/stdlib/commit/1f65da411b8bd969551a9d9f510e542796dd934a) - add `number/float32/base/assert/is-almost-equal`
+-   [`cad154a`](https://github.com/stdlib-js/stdlib/commit/cad154a928c9bf91f513828f49983b487dab44a6) - add `number/float32/base/assert/is-almost-equal-value` [(#7517)](https://github.com/stdlib-js/stdlib/pull/7517)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +23,11 @@
 
 <details>
 
+-   [`6eee151`](https://github.com/stdlib-js/stdlib/commit/6eee15199727d04e3757e66f38384e97b8a333da) - **style:** fix indentation in JSON files _(by Philipp Burckhardt)_
+-   [`db50901`](https://github.com/stdlib-js/stdlib/commit/db509018b6c48e7e483029ae9b4464d2f17ca77d) - **remove:** remove `number/float32/base/assert/is-almost-equal-value` _(by Karan Anand)_
+-   [`1f65da4`](https://github.com/stdlib-js/stdlib/commit/1f65da411b8bd969551a9d9f510e542796dd934a) - **feat:** add `number/float32/base/assert/is-almost-equal` _(by Karan Anand)_
+-   [`260a8ca`](https://github.com/stdlib-js/stdlib/commit/260a8caa90718eeb4dbbe5c6b0c2b3708085de86) - **docs:** fix examples _(by Karan Anand)_
+-   [`cad154a`](https://github.com/stdlib-js/stdlib/commit/cad154a928c9bf91f513828f49983b487dab44a6) - **feat:** add `number/float32/base/assert/is-almost-equal-value` [(#7517)](https://github.com/stdlib-js/stdlib/pull/7517) _(by Karan Anand, Athan Reines)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
 
 </details>
@@ -24,9 +40,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Karan Anand
+-   Philipp Burckhardt
 
 </section>
 
