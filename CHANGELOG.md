@@ -4,12 +4,14 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-11-07)
+## Unreleased (2025-12-17)
 
 <section class="features">
 
 ### Features
 
+-   [`51823d9`](https://github.com/stdlib-js/stdlib/commit/51823d9ae78278700f6774fb428d189c8b6e891a) - rename aliases
+-   [`563dfe9`](https://github.com/stdlib-js/stdlib/commit/563dfe9fab0ff36dbb4ddc445664f392de52a5d7) - rename aliases
 -   [`ce7e772`](https://github.com/stdlib-js/stdlib/commit/ce7e772e28c75673dbc846d844febef8d4426b95) - update `number/float32/base/assert` TypeScript declarations
 -   [`0cf2dd6`](https://github.com/stdlib-js/stdlib/commit/0cf2dd65ae1a209d306184a82c4226742bfa6103) - add `isAlmostEqual` exports to namespaces
 -   [`1f65da4`](https://github.com/stdlib-js/stdlib/commit/1f65da411b8bd969551a9d9f510e542796dd934a) - add `number/float32/base/assert/is-almost-equal`
@@ -19,12 +21,45 @@
 
 <!-- /.features -->
 
+<section class="breaking-changes">
+
+### BREAKING CHANGES
+
+-   [`51823d9`](https://github.com/stdlib-js/stdlib/commit/51823d9ae78278700f6774fb428d189c8b6e891a): rename aliases for `isSameValuef` and `isSameValueZerof`
+
+    -   This commit renames the aliases by dropping the `f` suffix. This
+        suffix was primarily used to distinguish symbols co-existing in the
+        same namespace as double-precision counterparts. Here, however, that
+        is not applicable as these symbols are co-localized with only other
+        single-precision utilities. Hence, to minimize naming variations
+        between namespaces, the symbols have been renamed. To migrate,
+        users should simply drop the `f` suffix.
+
+-   [`563dfe9`](https://github.com/stdlib-js/stdlib/commit/563dfe9fab0ff36dbb4ddc445664f392de52a5d7): rename aliases for `isSameValuef` and `isSameValueZerof`
+
+    -   This commit renames the aliases by dropping the `f` suffix. This
+        suffix was primarily used to distinguish symbols co-existing in the
+        same namespace as double-precision counterparts. Here, however, that
+        is not applicable as these symbols are co-localized with only other
+        single-precision utilities. Hence, to minimize naming variations
+        between namespaces, the symbols have been renamed. To migrate,
+        users should simply drop the `f` suffix.
+
+</section>
+
+<!-- /.breaking-changes -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`0f3ab3b`](https://github.com/stdlib-js/stdlib/commit/0f3ab3be38c467ac34206d1aad973e7cb56f84af) - **docs:** update copy _(by Athan Reines)_
+-   [`51823d9`](https://github.com/stdlib-js/stdlib/commit/51823d9ae78278700f6774fb428d189c8b6e891a) - **feat:** rename aliases _(by Athan Reines)_
+-   [`0f795ff`](https://github.com/stdlib-js/stdlib/commit/0f795ffaf0b452bf479b11a061f6142cc782d97e) - **chore:** rename variable _(by Athan Reines)_
+-   [`3c46f07`](https://github.com/stdlib-js/stdlib/commit/3c46f07d2c590556429155a4265bd4be82a47e4d) - **chore:** rename variable _(by Athan Reines)_
+-   [`563dfe9`](https://github.com/stdlib-js/stdlib/commit/563dfe9fab0ff36dbb4ddc445664f392de52a5d7) - **feat:** rename aliases _(by Athan Reines)_
 -   [`5f5bb2d`](https://github.com/stdlib-js/stdlib/commit/5f5bb2d4277a24000b57fb07bc28d821500cd7e8) - **docs:** update namespace table of contents [(#8425)](https://github.com/stdlib-js/stdlib/pull/8425) _(by stdlib-bot, Athan Reines)_
 -   [`ce7e772`](https://github.com/stdlib-js/stdlib/commit/ce7e772e28c75673dbc846d844febef8d4426b95) - **feat:** update `number/float32/base/assert` TypeScript declarations _(by Philipp Burckhardt)_
 -   [`0cf2dd6`](https://github.com/stdlib-js/stdlib/commit/0cf2dd65ae1a209d306184a82c4226742bfa6103) - **feat:** add `isAlmostEqual` exports to namespaces _(by Philipp Burckhardt)_
