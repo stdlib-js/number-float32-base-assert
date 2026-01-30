@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-12-21)
+## 0.3.0 (2026-01-30)
 
 <section class="features">
 
@@ -58,6 +58,7 @@
 
 <details>
 
+-   [`f693285`](https://github.com/stdlib-js/stdlib/commit/f69328578f728111a8993e9fae78c7aef0a7143f) - **bench:** refactor to use string interpolation in `number/float32/base/assert` [(#9910)](https://github.com/stdlib-js/stdlib/pull/9910) _(by Lokesh Ranjan)_
 -   [`22e2828`](https://github.com/stdlib-js/stdlib/commit/22e2828e91516f984f5d066c35884c63d3a76f8b) - **docs:** update description [(#9291)](https://github.com/stdlib-js/stdlib/pull/9291) _(by stdlib-bot)_
 -   [`e2f119d`](https://github.com/stdlib-js/stdlib/commit/e2f119d2898fef45c8bc7a670b2409871c6d4b53) - **docs:** fix description _(by Athan Reines)_
 -   [`177c77b`](https://github.com/stdlib-js/stdlib/commit/177c77bec9929e54e35c01be44799de32045fb68) - **docs:** update description [(#9238)](https://github.com/stdlib-js/stdlib/pull/9238) _(by stdlib-bot)_
@@ -93,10 +94,11 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
+-   Lokesh Ranjan
 -   Philipp Burckhardt
 
 </section>
