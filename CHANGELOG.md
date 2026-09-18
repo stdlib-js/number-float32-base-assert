@@ -2,6 +2,55 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-09-18)
+
+<section class="features">
+
+### Features
+
+-   [`f2e4c4f`](https://github.com/stdlib-js/stdlib/commit/f2e4c4fb00a75ca16b696ec268f0a776117748df) - add C implementation to `number/float32/base/assert/is-almost-same-value` [(#15036)](https://github.com/stdlib-js/stdlib/pull/15036)
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`2740b02`](https://github.com/stdlib-js/stdlib/commit/2740b02e4e820553f2ea50765ac71db10415cb06) - **refactor:** remove unnecessary `Boolean` wrapper [(#15105)](https://github.com/stdlib-js/stdlib/pull/15105) _(by Philipp Burckhardt)_
+-   [`f2e4c4f`](https://github.com/stdlib-js/stdlib/commit/f2e4c4fb00a75ca16b696ec268f0a776117748df) - **feat:** add C implementation to `number/float32/base/assert/is-almost-same-value` [(#15036)](https://github.com/stdlib-js/stdlib/pull/15036) _(by Muhammad Haris, Athan Reines)_
+-   [`7ae11bc`](https://github.com/stdlib-js/stdlib/commit/7ae11bca9e05607a14425d165dfed57584b880b8) - **chore:** clean-up [(#13834)](https://github.com/stdlib-js/stdlib/pull/13834) _(by Philipp Burckhardt)_
+-   [`430fdea`](https://github.com/stdlib-js/stdlib/commit/430fdea947428af11c0e75dc6f6a0bd3cbd13e88) - **chore:** clean-up [(#13805)](https://github.com/stdlib-js/stdlib/pull/13805) _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 3 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Muhammad Haris
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-08)
